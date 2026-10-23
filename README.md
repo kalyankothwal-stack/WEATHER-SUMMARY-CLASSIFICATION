@@ -2,7 +2,7 @@
 
 Predict the daily weather summary (Partly Cloudy, Foggy, Rainy and so on) from hourly weather readings, and serve the model in a Streamlit app.
 
-**Live demo:** [weather-summary-classification.streamlit.app/](https://weather-summary-classification.streamlit.app/)
+**Live demo:** [weather-summary-classification.streamlit.app](https://weather-summary-classification.streamlit.app/)
 
 ## The problem
 
