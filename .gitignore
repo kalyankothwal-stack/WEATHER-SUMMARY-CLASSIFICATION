@@ -1,0 +1,12 @@
+# Dataset and description (do not upload to GitHub)
+weatherHistory.csv
+description.docx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
